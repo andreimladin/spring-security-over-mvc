@@ -12,5 +12,5 @@ spring:
     username: andrei
     password: andrei
   h2.console.enabled: true
-#logging.level.root: DEBUG
-#logging.level.org.springframework: DEBUG
+logging.level.root: DEBUG
+logging.level.org.springframework: DEBUG
